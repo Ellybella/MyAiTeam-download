@@ -1,0 +1,51 @@
+﻿My AI Team
+© 2026 엘리 (Elly) · https://blog.naver.com/ellyslife
+All rights reserved.
+
+──────────── 사용 조건 (한국어) ────────────
+
+1. 이 프로그램은 누구나 무료로 설치해 개인·업무 목적으로 사용할 수 있습니다.
+
+2. 만든 사람의 허락 없이 다음 행위를 할 수 없습니다.
+   - 프로그램이나 그 일부를 수정하거나, 코드를 복제·추출하는 행위
+     (법률이 허용하는 범위의 역분석은 제외)
+   - 프로그램 파일을 다른 사이트·카페·자료실 등에 올려 재배포하는 행위
+   - 프로그램을 판매하거나 유료로 제공하는 행위
+   - 이름을 바꾸거나 만든 사람 표시를 지워 자기 것처럼 배포하는 행위
+
+3. 다른 사람에게 알려주고 싶다면 파일 대신 위 블로그 주소를 공유해 주세요.
+   새 버전과 공지도 블로그에 올립니다.
+
+4. 이 프로그램은 있는 그대로(무보증) 제공됩니다. 사용으로 생긴 손해, AI 서비스의
+   계정 제한, 요금 등에 대해 만든 사람은 법률이 허용하는 범위에서 책임지지 않습니다.
+   각 AI 서비스의 약관 준수와 사용량 관리는 사용자 책임입니다.
+
+5. 비공식 개인 프로젝트입니다. OpenAI·Anthropic·Google과 제휴하거나 승인받지 않았으며,
+   ChatGPT·Claude·Gemini는 각 회사의 상표입니다.
+
+6. 함께 들어 있는 오픈소스 구성 요소는 각자의 라이선스를 따릅니다
+   (THIRD-PARTY-LICENSES.txt 참고).
+
+──────────── Terms of use (English) ────────────
+
+1. Anyone may install and use this program free of charge for personal or work purposes.
+
+2. Without the author's permission, you may not:
+   - modify the program or any part of it, or copy or extract its code
+     (except reverse engineering permitted by law);
+   - redistribute the program files on other websites, forums or download sites;
+   - sell the program or provide it for a fee;
+   - rename it or remove the author's credit and distribute it as your own.
+
+3. If you'd like to tell others about it, please share the blog address above instead of the files.
+   New versions and notices are posted there.
+
+4. This program is provided as is, without warranty. To the extent permitted by law, the author
+   is not liable for damages, AI service account restrictions or charges arising from its use.
+   You are responsible for following each AI service's terms and managing your usage.
+
+5. This is an unofficial personal project. It is not affiliated with or endorsed by OpenAI,
+   Anthropic or Google. ChatGPT, Claude and Gemini are trademarks of their respective companies.
+
+6. Bundled open source components are subject to their own licenses
+   (see THIRD-PARTY-LICENSES.txt).
